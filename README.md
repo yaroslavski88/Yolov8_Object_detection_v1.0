@@ -43,14 +43,14 @@
 
 ## Интерактивный интерфейс / Interactive Interface
 ### Интерфейс ввода изображения / Image Input Interface
-![image_input_demo](https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0_app/blob/main/imgs/image_input_demo.png)<br>
-![image_input_demo](https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0_app/blob/main/imgs/image_input_demo_1.png)
+![image_input_demo](https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0/blob/main/imgs/image_input_demo.png)<br>
+![image_input_demo](https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0/blob/main/imgs/image_input_demo_1.png)
 
 ### Интерфейс ввода видео / Video Input Interface
-![video_input_demo](https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0_app/blob/main/imgs/video_input_demo.png)
+![video_input_demo](https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0/blob/main/imgs/video_input_demo.png)
 
 ### Интерфейс ввода веб-камеры / Webcam Input Interface
-![webcam_input_demo](https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0_app/blob/main/imgs/webcam_input_demo.png)
+![webcam_input_demo](https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0/blob/main/imgs/webcam_input_demo.png)
 
 ## Установка / Installation
 ### Скачать и распаковать репозиторий / Download and unzip repository
