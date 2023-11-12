@@ -57,9 +57,6 @@
 ```commandline
 https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0_app
 ```
-### Открыть Терминал/ Open Terminal
-```commandline
-https://github.com/yaroslavski88/Yolov8_Object_detection_v1.0_app
 ### Установить пакеты / Install packages
 ```commandline
 # yolov8 dependencies
